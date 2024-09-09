@@ -24,8 +24,7 @@ This project is intended to replicate a Figma design using clean, responsive **H
 2. **Open the Project**
 
   Navigate to the project folder and open the index.html file in your web browser to view the site:
-  ```bash
-   ``` cd chart-application-sample 
+  cd chart-application-sample 
 
 Then, open the index.html file directly in your browser:
 - Drag the index.html file into a browser window.
